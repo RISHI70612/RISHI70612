@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 **About Me**
-🔹 **Machine Learning Enthusiast **  
+🔹 **Machine Learning Enthusiast**  
 🔹 **Data Science | Python | SQL | Pandas**  
 🔹 **Deep Learning | ASR | Generative AI  | NLP**  
 🔹 **AI Content Creation | Video Editing | Canva Design**  
